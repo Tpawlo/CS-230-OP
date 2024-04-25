@@ -54,3 +54,15 @@ By implementing the user's needs into my software design, I am ensuring I am cor
 
 
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
+
+When designing my software, I felt that paying extra close attention to the design document and the client's requests helped me stay focus on what needed to be done. I took the
+prompt with the requests and requirements and added them to the design document. This document was where I wrote and organized all of the tasks I had to do to complete the 
+program in a way that would satisfy the client. I then used the design document to "check-off" the items as I finished coding them. I found that this helped me understand what
+had to be done and stay focused on completeing them. I think a design document is a tool I will be using often in my future software application designs.
+
+
+
+
+
+
